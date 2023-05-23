@@ -111,6 +111,13 @@ button {
   justify-content: center;
   font-family: "Comfortaa", sans-serif;
 }
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
 .top-text {
   font-weight: 400;
   font-size: 38px;
@@ -456,7 +463,7 @@ button {
   margin-bottom: 10px;
 }
 .main-button__button {
-  background: #778CEB;
+  background: #778ceb;
   border-radius: 60px;
   width: 328px;
   height: 66px;
@@ -465,20 +472,15 @@ button {
   justify-content: center;
 }
 .main-button__button span {
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-size: 13px;
   line-height: 24px;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-right: 14px;
 }
 .middle {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
 }
