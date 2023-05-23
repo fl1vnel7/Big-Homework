@@ -111,13 +111,6 @@ button {
   justify-content: center;
   font-family: "Comfortaa", sans-serif;
 }
-.container {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
 .top-text {
   font-weight: 400;
   font-size: 38px;
@@ -481,4 +474,11 @@ button {
   text-transform: uppercase;
   color: #FFFFFF;
   margin-right: 14px;
+}
+.middle {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
