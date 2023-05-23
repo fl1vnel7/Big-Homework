@@ -57,6 +57,7 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 .header__person img {
   width: 30px;
@@ -481,6 +482,4 @@ button {
   text-transform: uppercase;
   color: #ffffff;
   margin-right: 14px;
-}
-.middle {
 }
