@@ -164,13 +164,13 @@ button {
 .top-right {
   display: flex;
   flex-direction: column;
-  font-family: 'Comfortaa', sans-serif;
+  font-family: "Comfortaa", sans-serif;
   margin-top: 30px;
 }
 .right-top {
   width: 630px;
   height: 262px;
-  background: #778CEB;
+  background: #778ceb;
   border-radius: 40px;
   color: #fff;
   position: relative;
@@ -192,7 +192,7 @@ button {
 .discount-button {
   width: 188px;
   height: 60px;
-  background: #FFFFFF;
+  background: #ffffff;
   border-radius: 60px;
   margin-left: 30px;
   margin-bottom: 48px;
@@ -202,7 +202,7 @@ button {
   justify-content: center;
 }
 .discount-button__title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 700;
   font-size: 13px;
   line-height: 24px;
@@ -215,7 +215,7 @@ button {
   height: 34px;
 }
 .discount-circle {
-  background: #FFB27D;
+  background: #ffb27d;
   width: 34px;
   height: 34px;
   display: flex;
@@ -225,11 +225,11 @@ button {
   margin-left: 16px;
 }
 .discount {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 800;
   font-size: 53px;
   line-height: 48px;
-  color: #FFB27D;
+  color: #ffb27d;
   margin-bottom: 54px;
 }
 .right-top__background {
@@ -252,7 +252,11 @@ button {
 .bottom-right__image {
   width: 100%;
   height: 100%;
-  background: linear-gradient(88.96deg, rgba(0, 0, 0, 0.2) 35.75%, rgba(0, 0, 0, 0) 101.16%);
+  background: linear-gradient(
+    88.96deg,
+    rgba(0, 0, 0, 0.2) 35.75%,
+    rgba(0, 0, 0, 0) 101.16%
+  );
   border-radius: 40px;
 }
 .bottom-right-title {
@@ -260,7 +264,7 @@ button {
   z-index: 1;
 }
 .bottom-right__text1 {
-  font-family: 'Comfortaa';
+  font-family: "Comfortaa";
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
@@ -270,7 +274,7 @@ button {
   margin-bottom: 10px;
 }
 .bottom-right__text2 {
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -295,7 +299,7 @@ button {
   z-index: 1;
 }
 .bottom-left__main-text {
-  font-family: 'Comfortaa';
+  font-family: "Comfortaa";
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
@@ -303,12 +307,12 @@ button {
   margin-right: 30px;
 }
 .bottom-left__discount {
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 800;
   font-size: 50px;
   line-height: 48px;
-  color: #778CEB;
+  color: #778ceb;
 }
 .top-part {
   width: 90%;
@@ -317,7 +321,7 @@ button {
   align-items: center;
   padding-left: 84px;
   padding-top: 25px;
-  font-family: 'Comfortaa', sans-serif;
+  font-family: "Comfortaa", sans-serif;
   margin-bottom: 66px;
 }
 .large-title {
@@ -329,7 +333,7 @@ button {
   font-weight: 700;
   font-size: 52px;
   line-height: 52px;
-  color: #778CEB;
+  color: #778ceb;
   margin-right: 24px;
 }
 .number-text {
@@ -338,7 +342,8 @@ button {
   line-height: 22px;
   color: #121212;
 }
-.first-part, .second-part {
+.first-part,
+.second-part {
   display: flex;
   align-items: center;
 }
@@ -354,7 +359,7 @@ button {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: 'Comfortaa', sans-serif;
+  font-family: "Comfortaa", sans-serif;
 }
 .long-image {
   width: 90%;
@@ -397,7 +402,7 @@ button {
   font-size: 14px;
   line-height: 14px;
   color: #fff;
-  background: #8DC63F;
+  background: #8dc63f;
   position: absolute;
   border-radius: 50px;
   width: 74px;
@@ -414,7 +419,7 @@ button {
   font-size: 14px;
   line-height: 14px;
   color: #fff;
-  background: #8DC63F;
+  background: #8dc63f;
   position: absolute;
   border-radius: 50px;
   width: 74px;
@@ -431,7 +436,7 @@ button {
   font-size: 14px;
   line-height: 14px;
   color: #fff;
-  background: #778CEB;
+  background: #778ceb;
   position: absolute;
   border-radius: 50px;
   width: 74px;
